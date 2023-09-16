@@ -1,0 +1,5 @@
+const googleAds() {
+console.log("new ads")
+}
+
+googleAds()
